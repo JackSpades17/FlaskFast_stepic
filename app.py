@@ -55,5 +55,6 @@ def post_tour(id):
 #def render_server_error(error):
 #    return "Что-то не так, но мы все починим"
 
-
-app.run(debug=True) 
+#app.run(debug=True) 
+if __name__ == '__main___':
+    app.run()
